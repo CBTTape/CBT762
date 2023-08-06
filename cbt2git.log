@@ -1,0 +1,12 @@
+2023-08-06 06:56:38.931936 - Initialized conversion of CBT762
+2023-08-06 06:56:39.017362 - Received CBT.V505.FILE762.PDS from FILE762.XMI 
+2023-08-06 06:56:39.019915 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE762.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:56:39.020985 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE762.PDS, moved to PDS/$$NOTE1
+2023-08-06 06:56:39.021951 - Found $$NOTE2.txt (text/plain) in CBT.V505.FILE762.PDS, moved to PDS/$$NOTE2
+2023-08-06 06:56:39.022908 - Found $PDSLOAD.jcl (text/plain) in CBT.V505.FILE762.PDS, moved to PDS/$PDSLOAD
+2023-08-06 06:56:39.023821 - Found @FILE762.txt (text/plain) in CBT.V505.FILE762.PDS, moved to PDS/@FILE762
+2023-08-06 06:56:39.024663 - Found DDNAMES.txt (text/plain) in CBT.V505.FILE762.PDS, moved to PDS/DDNAMES
+2023-08-06 06:56:39.025532 - Found IGNOREDD.txt (text/plain) in CBT.V505.FILE762.PDS, moved to PDS/IGNOREDD
+2023-08-06 06:56:39.026457 - Found MVSCPJCL.txt (text/plain) in CBT.V505.FILE762.PDS, moved to PDS/MVSCPJCL
+2023-08-06 06:56:39.031939 - Found PDSLOAD.xmi (application/xmit) in CBT.V505.FILE762.PDS
+2023-08-06 06:56:39.038498   - Received RECFM=U data, stored XMIT file as CBT762/PDSLOAD.xmi
